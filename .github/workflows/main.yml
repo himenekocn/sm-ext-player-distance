@@ -77,14 +77,16 @@ jobs:
             repository: alliedmodders/metamod-source
             ref: 1.11-dev
             path: metamod-source
-
+            submodules: recursive
+            
       - name: Checkout SourceMod
         uses: actions/checkout@v3
         with:
           repository: alliedmodders/sourcemod
           ref: 1.11-dev
           path: sourcemod
-
+          submodules: recursive
+          
       - name: Checkout hl2sdk-csgo
         uses: actions/checkout@v3
         with:

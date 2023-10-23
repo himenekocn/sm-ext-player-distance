@@ -1,7 +1,4 @@
 #include <cmath>
-#include <smsdk_ext.h>
-#include <edict.h>
-#include <iplayerinfo.h>
 #include "Rule.h"
 #include "ext_math.h"
 

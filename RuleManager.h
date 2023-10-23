@@ -1,6 +1,4 @@
 #pragma once
-#ifndef _INCLUDE_COMPUTE_RULEMANAGER_EVENTS_H_
-#define _INCLUDE_COMPUTE_RULEMANAGER_EVENTS_H_
 #include <vector>
 #include "extension.h"
 #include "Rule.h"

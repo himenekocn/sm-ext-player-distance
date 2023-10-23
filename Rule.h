@@ -1,6 +1,4 @@
 #pragma once
-#ifndef _INCLUDE_COMPUTE_RULE_EVENTS_H_
-#define _INCLUDE_COMPUTE_RULE_EVENTS_H_
 
 #include "extension.h"
 #include <array>
